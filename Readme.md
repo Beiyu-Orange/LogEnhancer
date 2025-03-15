@@ -8,7 +8,7 @@ This document contains all the code used in the experiment, the experiment resul
 
 ## Data
 + The experimental data is stored in the B_S, LLMs and ours folders.
-+ data.csv is oriiginal data set.
++ data.csv is original data set.
 + error_logs is the folder where the logs of specific build failures are stored.
 
 
