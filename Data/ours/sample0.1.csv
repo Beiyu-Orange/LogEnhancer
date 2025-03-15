@@ -1,0 +1,301 @@
+label,log,Predicted_Label
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+6,[ 3498.743112][ T12894] Out of memory: Killed process 12847 (Setup) total-vm:1100987654kB  anon-rss:5429873kB  file-rss:128kB  shmem-rss:0kB  UID:399 pgtables:14892kB oom_score_adj:0,6
+1,ModuleNotFoundError: No module named 'encodings',1
+2,"tests/unit/io/test_asyncioreactor.py:3: in <module>
+[ 1414s]     from cassandra.io.asyncioreactor import AsyncioConnection
+[ 1414s] cassandra/io/asyncioreactor.py:29: in <module>
+[ 1414s]     class AsyncioTimer(object):
+[ 1414s] cassandra/io/asyncioreactor.py:49: in AsyncioTimer
+[ 1414s]     @asyncio.coroutine
+[ 1414s] E   AttributeError: module 'asyncio' has no attribute 'coroutine'",2
+10,meson.build:285:2: ERROR: Automatic wrap-based subproject downloading is disabled,1
+4,line 16: It's not recommended to have unversioned Obsoletes: Obsoletes:      libjose line 33: It's not recommended to have unversioned Obsoletes: Obsoletes:      libjose-devel,1
+1,error: failed to run custom build command for `ring v0.16.20` ,1
+1,ModuleNotFoundError: No module named 'encodings',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'six',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,configure.ac:13: error: Autoconf version 2.71 or higher is required,1
+1,"[  175s] Lmod has detected the following error: The following module(s) are unknown:
+[  175s] ""mvapich2""",1
+1, [ERROR] Network timeout occurred while trying to fetch org.apache.spark:spark-core_2.11:jar:3.0.1 from https://repo.huaweicloud.com/repository/maven/ due to slow internet speed,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,"[ 2091s] gmake[3]: *** No rule to make target 'w'.  Stop.
+[ 2091s] gmake[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/petsc-3.18.4'
+[ 2091s] gmake[2]: *** [/home/abuild/rpmbuild/BUILD/petsc-3.18.4/lib/petsc/conf/rules:56: libs] Error 2",1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[  172s] Lmod has detected the following error: The following module(s) are unknown:
+[  172s] ""openmpi""",1
+1,"[ 2588s] gmake[3]: *** No rule to make target 'w'.  Stop.
+[ 2588s] gmake[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/petsc-3.18.4'
+[ 2588s] gmake[2]: *** [/home/abuild/rpmbuild/BUILD/petsc-3.18.4/lib/petsc/conf/rules:56: libs] Error 2",1
+2,1 tests  0 assertions  0 failures  1 errors,2
+1,"[  161s] Lmod has detected the following error: The following module(s) are unknown:
+[  161s] ""openmpi",1
+5,/bin/sh: line 21: cd: riscv64: No such file or directory,5
+4,packaging._tokenizer.ParserSyntaxError: Expected end or semicolon (after version specifier),1
+3,file /usr/lib64/libasm-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+2,make[3]: *** [Makefile:548: test-suite.log] Error 1 make[2]: *** [Makefile:656: check-TESTS] Error 2,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+10,No buildstatus set either the base system is corrupted (kernel/initrd/udev/glibc/bash/perl) or the build host has hardware issuesâ€?10,10
+10,[ERROR] No plugin found for prefix 'deploy' in the current project and in the plugin groups [org.apache.maven.plugins  org.codehaus.mojo] available from the repositories,10
+2,FAILED jsonweb/tests/test_decode.py::TestJsonWebObjectDecoder::test_bad__init__raises_error FAILED jsonweb/tests/test_decode.py::TestJsonWebObjectDecoder::test_class_kw_args_are_optional,2
+1,configure: error: some requested system libraries failed,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,g++: error: '-march=pentium3': ISA string must begin with rv32 or rv64 make[1]: *** [mocks_real.make:99: obj/mocks_real_Release/mocks_real.o] Error 1 make: *** [Makefile:159: mocks_real] Error 2,3
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,Test cases: 103 total  4 skipped  0 expected failures  2 broken  0 failed Total time: 1329.526s R:FAIL:status:1,2
+7,"[  950s]   File """"/usr/lib64/python3.10/threading.py"""", line 1085, in _wait_for_tstate_lock",7
+2,cucumber features/docs/defining_steps/nested_steps.feature:111 # Scenario: Backtrace doesn't skip nested steps,1
+2,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.0:test (default-test) on project jmock: There are test failures.,2
+6,[ 2291.069182][ T8378] Out of memory: Killed process 8331 (Setup) total-vm,6
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+6,[ 3210.114367][ T11599] Out of memory: Killed process 11565 (Setup) total-vm:1087345672kB  anon-rss:3874210kB  file-rss:0kB  shmem-rss:0kB  UID:399 pgtables:12344kB oom_score_adj:0,6
+2,/var/tmp/rpm-tmp.qHJJr6: line 33: 149216 Aborted                 (core dumped) /usr/lib/node_modules/mocha/bin/mocha --recursive test,2
+1, [ERROR] Failed to resolve dependencies for project org.springframework.boot:spring-boot:jar:2.4.4: Could not transfer artifact org.apache.kafka:kafka-clients:jar:2.7.0 from/to central (https://repo.maven.apache.org/maven2): Failed to transfer file,1
+2,Error in test test_with_syslog (ZConfig.components.logger.tests.test_logger.TestConfig.test_with_syslog) AttributeError: module 'socket' has no attribute 'SocketError',2
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+2,"[  253s] tests/test_gevent_server.py:60: AssertionError
+[  253s] =========================== short test summary info ============================
+[  253s] FAILED tests/test_gevent_server.py::Test_GeventServer::test_parallelism - Ass...
+[  253s] ====== 1 failed, 60 passed, 4 skipped, 23 deselected in 102.57s (0:01:42) ======",2
+10,lto-wrapper: fatal error: make returned 2 exit status,10
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+3,./dapl/udapl/linux/dapl_osd.h:55:2: error: #error UNDEFINED ARCH   #error UNDEFINED ARCH,4
+2,FAILED tests/test_scheduler.py::SchedulerTestCase::test_04_schedule_ten - Assâ€?2,2
+3,ERROR: test_coroutine_error (urwid.tests.test_event_loops.AsyncioEventLoopTest.test_coroutine_error) AttributeError: module 'asyncio' has no attribute 'coroutine',2
+7,[java] error(11): internal error: timed out while processing request,7
+3,AttributeError: module 'numpy' has no attribute 'float',4
+6,"[228933s] -- Installing: /home/abuild/rpmbuild/BUILD/rustc-1.66.1-src/build/riscv64gc-unknown-linux-gnu/llvm/bin/llvm-objdump
+[228960s] /.build/build-vm: line 472: echo: write error: No space left on device",10
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,"[  948s] FAILED run_unittests.py::LinuxlikeTests::test_generate_gir_with_address_sanitizer
+[  948s] !!!!!!!!!!!!!!!!!!!!!!!!!! stopping after 1 failures !!!!!!!!!!!!!!!!!!!!!!!!!!!
+[  948s] !!!!!!!!!!!! xdist.dsession.Interrupted: stopping after 1 failures !!!!!!!!!!!!!
+[  948s] ====== 1 failed, 319 passed, 56 skipped, 7 warnings in 595.04s (0:09:55) =======",2
+4,_build/src/github.com/containers/libpod/vendor/github.com/boltdb/bolt/freelist.go:204:17: undefined: maxAllocSize,4
+3,"[ 1050s] Error: unsupported machine: riscv64.
+[ 1050s] Only x86, x86_64, arm, loongarch and aarch64 are supported.",3
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+8,[ERROR] Plugin com.example:custom-plugin:1.0.0 could not be resolved.,8
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,3
+6,c++: fatal error: Killed signal terminated program cc1plus,6
+9,[ERROR] Failed to execute goal on project tcl: Could not resolve dependencies for project org.jsr-305:tcl:jar:0.1-SNAPSHOT: Could not find artifact org.jsr-305:ri:jar:0.1-SNAPSHOT,9
+10,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project maven-assembly-plugin: Compilation failure,10
+1,ModuleNotFoundError: No module named 'pytz',1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+1,"[  810s] Cannot find appropriate system libraries for WITH_SSL=system.
+[  810s] Make sure you have specified a supported SSL version.",3
+3,"#error ""No support for this architecture (yet)""",3
+4,"error: missing binary operator before token ""("" error: 'PerlInterpreter' {aka 'struct interpreter'} has no member named 'Tstack_base'; did you mean 'Istack_base'?",4
+1,ModuleNotFoundError: No module named 'javapackages',1
+4,GNUmakefile:67: *** multiple target patterns.  Stop.,3
+7,Error: timeout of 50ms exceeded. Ensure the done() callback is being called in this test.,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,FAILED test/test_holiday_base.py::TestAllInSameYear::test_all_countries - Attâ€?2,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+10,Badness 1000 exceeds threshold 999  aborting.,10
+1,No module named 'nototools',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,"[ 1028s] [ERROR] Cannot resolve project dependencies:
+[ 1028s] [ERROR]   Software being installed: org.eclipse.egit.core 5.4.0.201906121030-r
+[ 1028s] [ERROR]   Missing requirement: org.eclipse.egit.core 5.4.0.201906121030-r requires 'java.package; org.eclipse.jgit.annotations [5.4.0,5.5.0)' but it could not be found
+[ 1028s] [ERROR] 
+[ 1028s] [ERROR] See http://wiki.eclipse.org/Tycho/Dependency_Resolution_Troubleshooting for help.
+[ 1028s] [ERROR] Cannot resolve dependencies of MavenProject: org.eclipse.egit:org.eclipse.egit.core:5.4.0.201906121030-r @ /home/abuild/rpmbuild/BUILD/egit-5.4.0.201906121030-r/org.eclipse.egit.core/pom.xml: See log for details -> [Help 1]
+[ 1028s] [ERROR] 
+[ 1028s] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ 1028s] [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ 1028s] [ERROR] 
+[ 1028s] [ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ 1028s] [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MavenExecutionException",9
+4,14/43 folks:BluezBackend / individual-retrieval    FAIL             7.41s   killed by signal 5 SIGTRAP,7
+5,"[  654s] Starting local Bazel server and connecting to it...
+[  654s] FATAL: Cannot get start time of process 16075: (error: 2): No such file or directory",5
+2,TESTFAIL: These test cases failed: 582,2
+1,CMake Error at /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:218 (message):    Could NOT find LuaJIT (missing: LUAJIT_LIBRARY LUAJIT_INCLUDE_DIR),1
+1,ModuleNotFoundError: No module named 'javapackages',1
+6,unexpected fault address 0x220000000084a020 fatal error: fault [signal SIGSEGV: segmentation violation code=0x1 addr=0x220000000084a020 pc=0xf20f0],10
+4,error: 'SYS_eventfd' undeclared (first use in this function); did you mean 'SYS_eventfd2'?,4
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,FAILED tests/unit/utils/test_scp.py::TestScp::test_scp_user_def_progress FAILED tests/unit/utils/test_scp.py::TestScp::test_scp_user_def_progress_args_2,2
+1,"[  188s] Lmod has detected the following error: The following module(s) are unknown:
+[  188s] ""superlu""",1
+6,[ 4869.188984][T15464] Out of memory: Killed process 15417 (Setup) total-vm,6
+2,FAILED tests/test_local.py::TestLocalMachine::test_iter_lines_timeout - asserâ€?2,2
+5,src/_rtmidi.cpp:243:9: fatal error: longintrepr.h: No such file or directory,5
+4,"[  799s] /home/abuild/rpmbuild/BUILD/SPIRV-Tools-2022.1/source/val/validate_builtins.cpp:4010:10: error: enumeration value 'SpvBuiltInCullMaskKHR' not handled in switch [-Werror=switch]
+[  799s] cc1plus: all warnings being treated as errors
+[  799s] ninja: build stopped: subcommand failed.",1
+2,"SKIPPED [1] test/test_check.py:120: needs mypy
+[ 8411s] === 4 failed, 1199 passed, 34 skipped, 303 deselected in 7994.68s (2:13:14) ====",2
+2,FAILED tests/test_compute_hash.py::TestComputeHash::test_ntowfv1 - ValueError... FAILED tests/test_compute_hash.py::TestComputeHash::test_ntowfv2 - ValueErrorâ€?2,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'six',1
+1,"[  228s] error: failed to run custom build command for `mozjpeg-sys v1.0.3`
+[  228s]   thread 'main' panicked at '""with_simd"" feature flag has been enabled in mozjpeg-sys crate on riscv64 platform, which is does not have SIMD acceleration in MozJPEG. Disable SIMD or compile for x86/ARM/MIPS.', /home/abuild/rpmbuild/BUILD/dssim-3.2.3/vendor/mozjpeg-sys/src/build.rs:279:13",3
+4,hooklib.c:71:27: error: too many arguments to function 'libreport_get_dirsize_find_largest_dir',4
+4,SelfSignedCertificate.cpp:45:29: error: 'CRYPTO_MEM_CHECK_ON' was not declared in this scope SelfSignedCertificate.cpp:45:13: error: 'CRYPTO_mem_ctrl' was not declared in this scope; did you mean 'CRYPTO_memcmp'?,4
+1,"[  669s] CMake Error at CMake/vtkModule.cmake:4578 (message):
+[  669s]   Could not find the Qt5 external dependency.
+[  669s] Call Stack (most recent call first):
+[  669s]   GUISupport/QtQuick/CMakeLists.txt:16 (vtk_module_find_package)
+[  669s] -- Configuring incomplete, errors occurred!",1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,LifeLines requires a curses implementation with wide character support! + make -j16 make: *** No targets specified and no makefile found.  Stop.,3
+1,ModuleNotFoundError: No module named 'gi',1
+2,"[ 1127s] FAILED testing/test_debugging.py::TestPDB::test_pdb_interaction_exception - p...
+[ 1127s] FAILED testing/test_debugging.py::TestPDB::test_pdb_and_capsys - pexpect.exce...
+[ 1127s] FAILED testing/test_debugging.py::TestPDB::test_pdb_with_caplog_on_pdb_invocation
+[ 1127s] FAILED testing/test_unittest.py::TestTrialUnittest::test_trial_pdb - pexpect....",2
+8,[ERROR] Could not resolve dependencies for project com.example:app-core:jar:1.2.3: Could not find artifact,8
+1,configure: error: failed to find required module fontforge,1
+2,FAILED tests/test_django.py::TestStaticFiles::test_find_with_glob - re.error:... FAILED tests/test_django.py::TestStaticFiles::test_find_with_recursive_glob,2
+1,"[ 4768s] /tmp/ccGorFZX.ltrans6.ltrans.o: in function `.L0 ':
+[ 4768s] /usr/include/c++/12/bits/vector.tcc:114:(.text+0x92de): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC117'
+[ 4768s] collect2: error: ld returned 1 exit status",1
+10,/home/abuild/rpmbuild/BUILD/pegasus/mak/config.mak:336: *** PEGASUS_PLATFORM environment variable must be set to one of the following:,1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,ERROR in ./node_modules/matrix-react-sdk/res/img/feather-customised/warning-triangle.svg      Module build failed (from ./node_modules/@svgr/webpack/lib/index.js):      NonErrorEmittedError: (Emitted value instead of an instance of Error) [object Object],1
+9,[ERROR] Failed to execute goal on project jsoup: Could not resolve dependencies for project org.jsoup:jsoup:jar:1.14.2: Cannot access huaweicloud,9
+3,# error Unsupported architecture,3
+3,meson.build:47:0: ERROR: Invalid version of dependency  need 'folks' ['>=0.14'] found '0.11.4'.,1
+4,WARNING: /home/abuild/rpmbuild/BUILD/webkit-qtwebkit-23/Tools/qmake/mkspecs/features/use_all_in_one_files.prf:15: Unmatched parentheses are deprecated.,4
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+4,dh.cc:40:23: error: 'get_dh2048' was not declared in this scope,4
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,"The following tests FAILED: 	 13 - TestCondition (Failed) Errors while running Ctest",2
+2,FAILED tests/test_build.py::test_logo - assert [],2
+10,[ERROR] No plugin found for prefix 'verify' in the current project,10
+4,"error: missing binary operator before token ""(""",4
+1,"[  139s] Lmod has detected the following error: The following module(s) are unknown:
+[  139s] ""openmpi""",1
+7,TimeoutException: The operation timed out after 5000 milliseconds.,7
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[   63s] Lmod has detected the following error: The following module(s) are unknown:
+[   63s] ""openmpi""",1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+3,configure.ac:20: error: Autoconf version 2.70 or higher is required configure.ac:20: the top level,1
+1,"[  144s] Lmod has detected the following error: The following module(s) are unknown:
+[  144s] ""netcdf""",1
+5,"[ 1167s] CMake Error at /home/abuild/rpmbuild/BUILD/llvm-bolt-0/bolt/src/Target/CMakeLists.txt:3 (add_subdirectory):
+[ 1167s]   add_subdirectory given source ""WebAssembly"" which is not an existing
+[ 1167s]   directory.
+[ 1167s] 
+[ 1167s] 
+[ 1167s] -- Targeting llvm-bolt X86
+[ 1167s] -- Targeting llvm-bolt XCore
+[ 1167s] CMake Error at /home/abuild/rpmbuild/BUILD/llvm-bolt-0/bolt/src/Target/CMakeLists.txt:3 (add_subdirectory):
+[ 1167s]   add_subdirectory given source ""XCore"" which is not an existing directory.
+[ 1167s] 
+[ 1167s] 
+[ 1167s] fatal: not a git repository (or any of the parent directories): .git",3
+1,"[  611s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[  611s] strace: PTRACE_SETOPTIONS: Function not implemented
+[  611s] strace: detach: waitpid(8907): No child processes
+[  611s] strace: Process 8907 detached
+[  611s] FATAL: Failed to run 'strace'.",1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+4,regsmi.h:67:2: error: implicit declaration of function 'outb' [-Werror=implicit-function-declaration] regsmi.h:68:9: error: implicit declaration of function 'inb' [-Werror=implicit-function-declaration],4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+9, [ERROR] Failed to execute goal on project my-project: Could not resolve dependencies for project org.example:my-project:jar:1.0: Could not transfer artifact org.example:my-dependency:jar:1.0 from/to maven-central (https://repo.maven.apache.org/maven2): Connection timed out,9
+1,"[  408s] Lmod has detected the following error: The following module(s) are unknown:
+[  408s] ""mvapich2""",1
+1,ModuleNotFoundError: No module named 'six',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,CMake Error at src/plugins/CMakeLists.txt:116 (message):    Ruby not found,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,cc1: error: unrecognized command-line option â€?m32â€?cc1: error: â€?march=i586â€? ISA string must begin with rv32 or rv64 cc1: error: unrecognized command-line option â€?malign-doubleâ€?3,3
+4,src/config.h:365:53: error: unknown type name 'La_regs' src/audit.c:134:49: error: unknown type name 'La_retval',4
+4,Makefile:77: *** unknown architecture  please fix Makefile.  Stop.,4
+2,ERROR: test_is_legacy_version (tests.test_version.TestOpenwrtLuciRPC) Test comparing versions works as expected.,2
+1,"[  144s] Lmod has detected the following error: The following module(s) are unknown:
+[  144s] ""openmpi""",1
+1,"[116220s] /tmp/cc6dWrXa.ltrans18.ltrans.o: in function `.L0 ':
+[116220s] /home/abuild/rpmbuild/BUILD/mvapich2-2.3.7-1/<artificial>:964:(.text+0x398): relocation truncated to fit: R_RISCV_JAL against `.L313'
+[116236s] collect2: error: ld returned 1 exit status",1
+2,"[ 3902s] The following tests FAILED:
+[ 3902s] 	 38 - torture_rekey (Failed)
+[ 3902s] Errors while running Ctest",2
+6,make: *** [Makefile:226: all] Segmentation fault (core dumped) ,4
+1,Module build failed (from ./node_modules/babel-loader/lib/index.js): NonErrorEmittedError: (Emitted value instead of an instance of Error) [object Object] webpack compiled with 8 errors,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,[  137s] /var/tmp/rpm-tmp.rtkNTe: line 151:  3260 Segmentation fault      PYTHONPATH=${PYTHONPATH:+$PYTHONPATH:}/home/abuild/rpmbuild/BUILDROOT/python-pymediainfo-6.0.1-2.2.riscv64/usr/lib/python3.9/site-packages PYTHONDONTWRITEBYTECODE=1 pytest-3.9 --ignore=_build.python39 --ignore=_build.python311 --ignore=_build.python310 -v,2
+1,Module build failed (from ./node_modules/babel-loader/lib/index.js)ï¼?NonErrorEmittedError: (Emitted value instead of an instance of Error) [object Object] webpack 5.74.0 compiled with 15 errors in 219686 ms,1
+7,[java] error(10):  internal error: org.antlr.tool.Grammar.createLookaheadDFA(Grammar.java:1279): could not even do k=1 for decision 26; reason: timed out (>1000ms),7
+4,AttributeError: type object 'op' has no attribute 'pop_jump_if_true',4
+10,make: *** [Makefile:159: all] Error,10
+1,"[20119s] /home/abuild/rpmbuild/BUILD/mame-mame0253/build/projects/sdl/mame/gmake-linux/../../../../../3rdparty/bx/include/bx/inline/string.inl:88:(.text+0x12a4): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC5'
+[20119s] collect2: error: ld returned 1 exit status",1
+5,src_c/pypm.c:209:9: fatal error: longintrepr.h: No such file or directory,5
+5,editdistance/bycython.cpp:216:9: fatal error: longintrepr.h: No such file or directory,5
+4,"[ 1557s] libpff_local_descriptors_tree.h:105:6: error: unknown type name 'libfdata_tree_node_t'; did you mean 'libcdata_tree_node_t'?
+[ 1557s]   105 |      libfdata_tree_node_t **leaf_local_descriptors_tree_node,",4
+2,make[5]: *** [Makefile:973: test-suite.log] Error 1 make[4]: *** [Makefile:1081: check-TESTS] Error 2,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,"[ 1129s] FAILED tests/test_commands.py::TestRedisCommands::test_sync - redis.exception...
+[ 1129s] = 1 failed, 1765 passed, 910 skipped, 952 deselected, 5 warnings in 479.93s (0:07:59) =",2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,[92m *[0m Checking for Zlib... [91m *[0m Configure failed. error was: undefined method `exists?' for File:Class,1
+2,"[  344s] SKIPPED [1] tests/tests_tk.py:7: could not import 'tqdm.tk': No module named 'Tkinter'
+[  344s] SKIPPED [1] tests/tests_tqdm.py:1571: could not import 'numpy': No module named 'numpy'",2
+1,"[  163s] Lmod has detected the following error: The following module(s) are unknown:
+[  163s] ""openmpi""",1
+4,vendor/github.com/opencontainers/runc/libcontainer/init_linux.go:271:12: undefined: system.Setuid,4
+1,"[  145s] Lmod has detected the following error: The following module(s) are unknown:
+[  145s] ""openmpi""",1
+9,[ERROR] Failed to execute goal on project hppc-template-processor: Could not resolve dependencies for project com.carrotsearch:hppc-template-processor:maven-plugin:0.7.1: Cannot access huaweicloud (https://mirrors.huaweicloud.com/repository/maven/) in offline mode and the artifact org.antlr:antlr-runtime:jar:3.5.2 has not been downloaded from it before.,9
+2,"[ 1927s] FAILED tests/test_pytest_cov.py::test_cleanup_on_sigterm_sig_dfl_sigint - Fai...
+[ 1927s] FAILED tests/test_pytest_cov.py::test_cleanup_on_sigterm_sig_ign - Failed: noâ€?,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+6,[ 2790.234612][ T10323] Out of memory: Killed process 10275 (Setup) total-vm:1085634789kB  anon-rss:3751982kB  file-rss:0kB  shmem-rss:0kB  UID:399 pgtables:11876kB oom_score_adj:0,6
+1,ModuleNotFoundError: No module named 'Image',1
+4,_line_profiler.c:5627:46: error: invalid use of incomplete typedef â€˜PyFrameObjectâ€?{aka â€˜struct _frameâ€™},4
+4,[ 5907s] /home/abuild/rpmbuild/BUILD/webkitgtk-2.40.0/Source/JavaScriptCore/b3/B3Validate.cpp:455:43: error: 'toB3Type' was not declared in this scope",4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,5
+3,unavailable-dwarf-piece-dw.S: Assembler messages: unavailable-dwarf-piece-dw.S:24: Error: non-constant .uleb128 is not supported,3
+1,src/hashsum.c:85:3: error: 'GCRY_MD_SM3' undeclared here (not in a function); did you mean 'GCRY_MD_HD'?,4
+2,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.0:test (default-test) on project gson: There are test failures.,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,3
+7,Job seems to be stuck here  killed. (after 28800 seconds of inactivity),7
+5,fatal error: valgrind/valgrind.h: No such file or directory,5
+5,touch: cannot touch '_output/bin/prerelease-lifecycle-gen': No such file or directory,5
+2,TestFiles#test_gfm_header_ids_to_html [/home/abuild/rpmbuild/BUILD/kramdown-parser-gfm-1.1.0/usr/share/gems/gems/kramdown-parser-gfm-1.1.0/test/test_files.rb:32]:,2
+3,distutils.errors.DistutilsError: Command '['/usr/bin/python3'  '-m'  'pip'  '--disable-pip-version-check'  'wheel'  '--no-deps'  '-w'  '/tmp/tmphjcf8wjt'  '--quiet'  'pytz>=2015.7']' returned non-zero exit status 1.,3
+1,ModuleNotFoundError: No module named 'encodings',1
+7,timeout test,2
+7,Error: timeout of 3500ms exceeded in test execution.,2
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+2,"[20675s] [  FAILED  ] 1 test, listed below:
+[20675s] [  FAILED  ] LockFactoryTest.testStressLocks
+[20675s]  1 FAILED TEST",2
+5,cc1: fatal error: renesas/*.dts: No such file or directory,5
+3,kBuild/env.sh: unknown cpu/arch - riscv64,3
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,RuntimeError: Cannot cythonize with old Cython version (0.29.14 installed  needs 0.29.21),1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,Dependency gstreamer-1.0 found: NO found 1.16.2 but need: '>= 1.19.3',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+10,make: *** [Makefile:159: all] Error 2,10
+4,dns_utils.cpp:590:22: error: 'record_count' was not declared in this scope dns_utils.cpp:597:23: error: 'good_record' was not declared in this scope; did you mean 'good_records'?,4
+1,"[  130s] Lmod has detected the following error: The following module(s) are unknown:
+[  130s] ""openmpi""",1

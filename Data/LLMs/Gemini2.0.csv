@@ -1,0 +1,296 @@
+label,log,package,Predicted_Label
+6,"[39041.970093][ T8659] Out of memory: Killed process 8659 (ld) total-vm:4809176kB, anon-rss:2516592kB, file-rss:128kB, shmem-rss:0kB, UID:399 pgtables:8992kB oom_score_adj:0
+[39088s] collect2: fatal error: ld terminated with signal 9 [Killed]
+[39088s] compilation terminated.",scummvm,6
+3,configure: error: Package requirements (libnftnl >= 1.2.0) were not met: Package dependency requirement 'libnftnl >= 1.2.0' could not be satisfied. Package 'libnftnl' has version '1.1.8'  required version is '>= 1.2.0',nftables,1
+1,ModuleNotFoundError: No module named 'javapackages',objectweb-asm,1
+10,error: %prein(fipscheck-1.5.0-7.oe1.riscv64) scriptlet failed  signal 6 error: fipscheck-1.5.0-7.oe1.riscv64: install failed,vcftools,10
+10,CMakeFiles/Makefile2:2682: CMakeFiles/notcurses.3.man.dir/all] Error 2,notcurses,10
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,boom-boot,1
+10,Badness 1132 exceeds threshold 999  aborting,python-securesystemslib,10
+2,make[3]: *** [Makefile:698: test-suite.log] Error 1 make[2]: *** [Makefile:806: check-TESTS] Error 2,swtpm,2
+1,"[  175s] Lmod has detected the following error: The following module(s) are unknown:
+[  175s] ""mvapich2""",scalapack_gnu-mvapich2-hpc,1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,gcr,3
+1,error: failed to run custom build command for `ring v0.16.20`,parsec,10
+3,/home/abuild/rpmbuild/BUILD/fdo-client-1.0.0+git20210816.baa09b5/crypto/openssl/openssl_key_exchange_ecdh.c:508:9: error: 'EC_POINT_get_affine_coordinates_GFp' is deprecated: Since OpenSSL 3.0 [-Werror=deprecated-declarations]    508 |         if (EC_POINT_get_affine_coordinates_GFp(group  Sh_se_point  Shx_bn ,fdo-client,3
+1,vendor/golang.org/x/exp/shiny/driver/x11driver/buffer.go:111:9: undefined: shmClose vendor/golang.org/x/exp/shiny/driver/x11driver/screen.go:328:23: undefined: shmOpen, noisetorch,4
+1,"[  274s] Lmod has detected the following error: The following module(s) are unknown:
+[  274s] ""openmpi""",netcdf-fortran_gnu-openmpi4-hpc,1
+2,make[3]: *** [Makefile:548: test-suite.log] Error 1 make[2]: *** [Makefile:656: check-TESTS] Error 2,fakeroot,2
+10,make: *** [Makefile:159: all] Error,stellarium,10
+1,ModuleNotFoundError: No module named 'javapackages',ant-contrib,1
+1,configure: error: valgrind requested but <valgrind/memcheck.h> not found.,fabtests,1
+2,"FAILED tests/test_cron.py::test_concurrency_and_backoff - assert 1 == 2
+[  292s] ======== 1 failed, 59 passed, 2 xfailed, 1 xpassed, 1 warning in 31.63s ========",python-yacron,2
+2,[ 2242s] FAILED tests/cli/test_add.py::test_add_editable_package - resolvelib.resolvers.ResolutionImpossible: Unable to find a resolution,python-pdm_test,2
+4,/home/abuild/rpmbuild/BUILD/xmrig-6.18.1/src/crypto/cn/asm/CryptonightR_template.S:6: Error: unknown pseudo-op: `.intel_syntax',xmrig,4
+2,444 failed  699 passed  44 skipped  220 deselected  7 warnings in 2403.54 seconds ,pylint,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libgit2-glib,1
+1,ModuleNotFoundError: No module named 'javapackages', apache-commons-parent,1
+1,"[ 4505s] /tmp/ccCHGS8x.ltrans126.ltrans.o: in function `.L0 ':
+[ 4505s] /home/abuild/rpmbuild/BUILD/mame-mame0248/build/projects/sdl/mametiny/gmake-linux/../../../../../3rdparty/sol2/sol/sol.hpp:18382:(.text+0x1a5ca): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC136'
+[ 4505s] collect2: error: ld returned 1 exit status",mame_tools-data,4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',gstreamer-plugins-base,1
+4,ValueError: invalid mode: 'U',python-pprintpp,4
+1,ModuleNotFoundError: No module named 'six',polyglot,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',tracker,1
+1,ModuleNotFoundError: No module named 'javapackages',2+C31,1
+1,ModuleNotFoundError: No module named 'six',junit5,1
+1,ModuleNotFoundError: No module named 'javapackages',geronimo-jta,1
+9,UndeclaredThrowableException: InvocationTargetException: Plugin org.antlr:antlr3-maven-plugin:3.5 or one of its dependencies could not be resolved: Cannot access huaweicloud (https://mirrors.huaweicloud.com/repository/maven/) in offline mode and the artifact org.antlr:antlr3-maven-plugin:jar:3.5 has not been downloaded from it before.,antlr3,9
+2,FAILED jsonweb/tests/test_decode.py::TestJsonWebObjectDecoder::test_bad__init__raises_error FAILED jsonweb/tests/test_decode.py::TestJsonWebObjectDecoder::test_class_kw_args_are_optional,python-JsonWeb,2
+1,"[  128s] Lmod has detected the following error: The following module(s) are unknown:
+[  128s] ""openmpi""",petsc_gnu-openmpi3-hpc,1
+1,ModuleNotFoundError: No module named 'javapackages',eclipselink-persistence-api,1
+2,Error in test test_with_syslog (ZConfig.components.logger.tests.test_logger.TestConfig.test_with_syslog) AttributeError: module 'socket' has no attribute 'SocketError',python-Zconfig,2
+2,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.0:test (default-test) on project httpasyncclient: There are test failures.,httpcomponents-asyncclient,2
+1,ModuleNotFoundError: No module named 'javapackages',assertj-core,1
+1,configure: WARNING: valgrind.h not found configure: WARNING: Cannot compile this component configure: error: Cannot continue,openmpi,1
+2,make[5]: *** [Makefile:2994: test-suite.log] Error 1 [22199s] make[4]: *** [Makefile:3102: check-TESTS] Error 2,gettext,2
+7,timeout test,nodejs-tap,7
+1,ModuleNotFoundError: No module named 'six',cbi-plugins,1
+1,ModuleNotFoundError: No module named 'javapackages',plexus-velocity,1
+1,"[ 2680s] ERROR: pkg-config reported DPDK libdir /usr/local/lib64 is out of the directory specified with --with-dpdk=
+[ 2680s] ERROR: do you have another DPDK installed in the system?",spdk,1
+2,FAILED ../tests/test_cap_operations.py::test_iterate_empty_psml_capture - ass�?python-pyshark,,2
+2,FAILED tests/test_xkcdpass.py::TestEntropyInformation::test_entropy_printout_valid_input,python-xkcdpass,2
+5,touch: cannot touch '_output/bin/prerelease-lifecycle-gen': No such file or directory,kubernetes1.22,5
+1,"[  193s] Lmod has detected the following error: The following module(s) are unknown:
+[  193s] ""openmpi""",mumps_gnu-openmpi4-hpc,1
+4,error: 'class Quotient::AccountSettings' has no member named 'accessToken'; did you mean 'clearAccessToken'?,matrix-quaternion,4
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,python-wrapt,1
+1,ModuleNotFoundError: No module named 'javapackages',maven-remote-resources-plugin,1
+5,error: File not found: /home/abuild/rpmbuild/BUILDROOT/libgexiv2-0.12.1-1.oe1.riscv64/usr/lib64/python3.8/site-packages/gi/overrides/GExiv2.py,libgexiv2,5
+2,tests 19 pass  18 fail  1,nodejs-glob,2
+2,[  919s] FAILED tests/test_timeouts.py::test_timeouts - Failed: Inner exception: pytes�?python-nbval_test,,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',gnome-desktop3,1
+1,"[  401s] Lmod has detected the following error: The following module(s) are unknown:
+[  401s] ""openblas""",python-numpy_gnu-hpc,1
+4,error: ‘EVBACKEND_LINUXAIO�?undeclared (first use in this function) error: ‘EVBACKEND_IOURING�?undeclared (first use in this function); did you mean ‘EVBACKEND_PORT�?,python-gevent,4
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,cmake,1
+7,"Job seems to be stuck here, killed. (after 43200 seconds of inactivity)",chromium,7
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,erlang-rebar,3
+4,error: array bound is not an integer constant before ']' token,usbguard,4
+1,ModuleNotFoundError: No module named 'javapackages',antlr,1
+2,"[ 1928s] FAILED tests/services/sessions/test_api.py::test_restart_kernel[jp_server_config3]
+[ 1928s] FAILED tests/services/sessions/test_api.py::test_restart_kernel[jp_server_config2]",python-jupyter-server_test,2
+1,"[ 6526s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[ 6526s] strace: PTRACE_SETOPTIONS: Function not implemented
+[ 6526s] strace: detach: waitpid(7546): No child processes
+[ 6526s] strace: Process 7546 detached
+[ 6526s] FATAL: Failed to run 'strace'.",python-Nuitka_gcc-test-py38,10
+1,"[ 2091s] gmake[3]: *** No rule to make target 'w'.  Stop.
+[ 2091s] gmake[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/petsc-3.18.4'
+[ 2091s] gmake[2]: *** [/home/abuild/rpmbuild/BUILD/petsc-3.18.4/lib/petsc/conf/rules:56: libs] Error 2",petsc_gnu-openmpi2-hpc,5
+10,Badness 1000 exceeds threshold 999  aborting,python-azure-mgmt-recoveryservicessiterecovery,10
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',rpm-ostree,1
+1,ModuleNotFoundError: No module named 'javapackages',fasterxml-oss-parent,1
+1,,libtevent,1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,gnome-initial-setup,3
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',grilo,1
+1,"[  163s] Lmod has detected the following error: The following module(s) are unknown:
+[  163s] ""openmpi""",netcdf_gnu-openmpi4-hpc,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libnice,1
+1,ModuleNotFoundError: No module named 'encodings',gstreamer1-plugins-bad-free,1
+4,error[E0425]: cannot find value `AVG_RANGE_COMP_REQ` in this scope error[E0425]: cannot find value `AVG_RANGE_COMP_REQ` in this scope,kanidm,4
+2,SKIPPED [1] test/test_admin_integration.py:13: ACL features require broker >=0.11 SKIPPED [1] test/test_admin_integration.py:89: Describe config features require broker >=0.11,python-kafka-python,2
+10,tee: /dev/stderr: Permission denied,rubygem-prawn,10
+1,ModuleNotFoundError: No module named 'javapackages',maven-artifact-resolver,1
+3,net_ssl.cpp:216:35: warning: 'EC_KEY* EC_KEY_new()' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations],monero-gui,3
+1,/bin/sh: line 1: git: command not found make: *** [Makefile:181: obj/filter/tree_test.ok] Error 139,bird,1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,gsettings-desktop-schemas,3
+1,ModuleNotFoundError: No module named 'SCons',libffado,1
+4,_line_profiler.c:5627:46: error: invalid use of incomplete typedef ‘PyFrameObject�?{aka ‘struct _frame’},python-line_profiler,4
+1,ModuleNotFoundError: No module named 'javapackages',jsch,1
+1,"[  137s] Lmod has detected the following error: The following module(s) are unknown:
+[  137s] ""mvapich2""",mpiP_gnu-mvapich2-hpc,1
+10,/usr/lib/rpm/brp-digest-list: line 32: gen_digest_lists: command not found,libzapojit,1
+1,configure: error: Package requirements (luajit) were not met: Package 'luajit'  required by 'virtual:world'  not found,sysbench,1
+1,ModuleNotFoundError: No module named 'javapackages',maven-scm,1
+2,cpplint_unittest.py:6501: AssertionError,python-cpplint,2
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,hunspell-is,1
+2,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.0:test (default-test) on project jmock: There are test failures.,jmock,2
+1,"[  130s] Lmod has detected the following error: The following module(s) are unknown:
+[  130s] ""openmpi""",fftw3_gnu-openmpi3-hpc,1
+2,"[ 3730s] FAILED sparse/linalg/tests/test_propack.py::test_examples[True-float32] - Fai...
+[ 3730s] FAILED sparse/linalg/tests/test_propack.py::test_examples[True-float64] - Fai�?,python-scipy_test
+1,[  317s] Lmod has detected the following error: The following module(s) are unknown:",,2
+1,"[  317s] Lmod has detected the following error: The following module(s) are unknown:
+[  317s] ""openmpi""",boost_gnu-openmpi4-hpc,1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,python-py,1
+1,ModuleNotFoundError: No module named 'javapackages',maven-shade-plugin,1
+7,[java] error(10):  internal error: org.antlr.tool.Grammar.createLookaheadDFA(Grammar.java:1279): could not even do k=1 for decision 26; reason: timed out (>1000ms),sqljet,10
+1,ModuleNotFoundError: No module named 'six',forbidden-apis,1
+9,[ERROR] Failed to execute goal on project jaxb2-basics: Could not resolve dependencies for project org.jvnet.jaxb2_commons:jaxb2-basics:jar:0.9.5: Cannot access huaweicloud,jaxb2-common-basics,9
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,libcomps,1
+10,Badness 1000 exceeds threshold 999  aborting.,python-brewer2mpl,10
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babe,python-funcsigs,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',rest,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libnma,1
+1,configure: error: cannot guess build type; you must specify one,passenger,1
+3,libglfork.cpp:1028:6: error: ifunc is not supported on this target,primus,3
+2,rspec ./spec/builtin_contracts_spec.rb:440 # Contracts: StrictHash: when given an input with missing keys raises an error, rubygem-contracts,2
+2,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.0:test (default-test) on project jboss-classfilewriter: There are test failures., jboss-classfilewriter,2
+4,SelfSignedCertificate.cpp:45:29: error: 'CRYPTO_MEM_CHECK_ON' was not declared in this scope SelfSignedCertificate.cpp:45:13: error: 'CRYPTO_mem_ctrl' was not declared in this scope; did you mean 'CRYPTO_memcmp'?,mumble,4
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,erlang-erlsyslog,3
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,py3c,1
+4,AttributeError: 'NoneType' object has no attribute 'split',python-jsonpatch,4
+4,simd_generic.hpp:324:56: error: cannot convert 'const ngcore::SIMD<double  1>' to 'double' in initialization,netgen,4
+1,"[ 8183s] /tmp/ccq8uLmg.ltrans14.ltrans.o: in function `.L0 ':
+[ 8183s] /usr/include/c++/12/bits/basic_string.h:3555:(.text+0x9750): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC81'
+[ 8183s] collect2: error: ld returned 1 exit status",gromacs_serial,4
+6,"make[1]: *** [CMakeFiles/Makefile2:3511: src/notation/CMakeFiles/notation.dir/all] Error 2
+[22809s] make: *** [Makefile:139: all] Error 2",musescore,10
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,rubygem-byebug,1
+4,error: 'SYS_eventfd' undeclared (first use in this function); did you mean 'SYS_eventfd2'?,libaio,4
+1,ModuleNotFoundError: No module named 'javapackages',felix-osgi-obr,1
+5,Missing makefile.,java-service-wrapper,5
+1,error: failed to run custom build command for `ring v0.16.20`,gstreamer-plugins-rs,10
+4,uninit.c:302:17: error: '_FPU_MASK_IM' undeclared (first use in this function),f2c,4
+1,ModuleNotFoundError: No module named 'javapackages',plexus-i18n,1
+1,"[  611s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[  611s] strace: PTRACE_SETOPTIONS: Function not implemented
+[  611s] strace: detach: waitpid(8907): No child processes
+[  611s] strace: Process 8907 detached
+[  611s] FATAL: Failed to run 'strace'.",python-Nuitka_clang-test-py310,10
+2,FAILED tests/test_pyp.py::test_examples - pyp.PypError: Code raised the follo... FAILED tests/test_pyp.py::test_user_error - AssertionError: Regex pattern did�?python-pyp,,2
+1,ModuleNotFoundError: No module named 'six',cal10n,1
+7,Job seems to be stuck here  killed. (after 28800 seconds of inactivity),sbt,7
+10,service/debugger/debugger.go:32:2: found packages native (dump_linux.go) and your_linux_architecture_is_not_supported_by_delve (support_sentinel_linux.go) in /home/abuild/rpmbuild/BUILD/delve-1.20.0/pkg/proc/native,delve,3
+2,"pytest.fail(
+[ 5832s]                     ""unknown failure; view output to identify configuration"")
+[ 5832s] E               Failed: unknown failure; view output to identify configuration
+[ 5832s] 
+[ 5832s] control/tests/flatsys_test.py:227: Failed",python-control,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',gdk-pixbuf2,1
+6,[ 3479.90606][T9641] Out of memory: Killed process 9605 (Setup) total-vm,ghc-dhall,6
+1,ModuleNotFoundError: No module named 'javapackages',maven-plugins-pom,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',spice-gtk,1
+8,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project postgresql: Compilation failure,postgresql-jdbc,4
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,flink,3
+3,../src/tup/platform.c:64:2: error: #error Unsupported cpu architecture. Please add support in tup/platform.c 64 | #error Unsupported cpu architecture. Please add support in tup/platform.c,tup,3
+7,"[  880s]   File ""/usr/lib64/python3.9/threading.py"", line 1080, in _wait_for_tstate_lock
+[  880s]     if lock.acquire(block, timeout):",python-jupyter-client_test,10
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libappindicator,1
+1,ModuleNotFoundError: No module named 'javapackages',apache-commons-jxpath,1
+3,scitokens_internal.cpp:59:90: error: 'void EC_KEY_free(EC_KEY*)' is deprecated: Since OpenSSL 3.0 [-Werror=deprecated-declarations] scitokens_internal.cpp:520:51: error: 'const EC_POINT* EC_KEY_get0_public_key(const EC_KEY*)' is deprecated: Since OpenSSL 3.0 [-Werror=deprecated-declarations] scitokens_internal.cpp:527:45: error: 'int EC_POINT_get_affine_coordinates_GFp(const EC_GROUP*  const EC_POINT*  BIGNUM*  BIGNUM*  BN_CTX*)' is deprecated: Since OpenSSL 3.0 [-Werror=deprecated-declarations],scitokens-cpp,3
+9,"[ 2442s] [ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[ 2443s] [FATAL] Non-resolvable parent POM for org.wildfly.security:wildfly-elytron:1.6.8.Final: Could not transfer artifact org.jboss:jboss-parent:pom:25 from/to aliyun (http://maven.aliyun.com/repository/central/): Connect to maven.aliyun.com:80 [maven.aliyun.com/182.92.29.53, maven.aliyun.com/182.92.29.54, maven.aliyun.com/182.92.29.16, maven.aliyun.com/59.110.251.11, maven.aliyun.com/59.110.251.12, maven.aliyun.com/59.110.251.4, maven.aliyun.com/59.110.251.10, maven.aliyun.com/182.92.29.40, maven.aliyun.com/182.92.29.13, maven.aliyun.com/59.110.251.9] failed: Connection refused (Connection refused) and 'parent.relativePath' points at wrong local POM @ line 20, column 13",wildfly-elytron,9
+2,make[5]: *** [Makefile:973: test-suite.log] Error 1 make[4]: *** [Makefile:1081: check-TESTS] Error 2,lasso,2
+7,"[  209s]   File ""/usr/lib64/python3.8/threading.py"", line 558, in wait
+[  209s]     signaled = self._cond.wait(timeout)
+[  209s]   File ""/usr/lib64/python3.8/threading.py"", line 306, in wait
+[  209s]     gotit = waiter.acquire(True, timeout)",python-pytest-jupyter_test,10
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,erlang-mustache,3
+3,dhparam: Unknown option: -C dhparam: Use -help for summary.,pound,4
+4,container.if:13: Error: duplicate definition of container_runtime_domtrans(). Original definition on 13.,container-selinux,4
+1,"[88426s] /tmp/ccRzQqnS.ltrans19.ltrans.o: in function `.L0 ':
+[88426s] /home/abuild/rpmbuild/BUILD/mvapich2-2.3.7-1/<artificial>:964:(.text+0x398): relocation truncated to fit: R_RISCV_JAL against `.L313'
+[88433s] collect2: error: ld returned 1 exit status",mvapich2_gnu-hpc-testsuite,4
+2,FAILED test/test_as_future.py::test_as_future_coroutine[asyncio] - ImportErro... FAILED test/test_call_later.py::test_explicit_reactor_coroutine[asyncio] - Im�?python-txaio,,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',atk,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libmypaint,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libdazzle,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',libgnomekbd,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',ibus,1
+1,"[  233s] Lmod has detected the following error: The following module(s) are unknown:
+[  233s] ""mvapich2""",petsc_gnu-mvapich2-hpc,1
+1,ERROR: Python module pytdb of version 1.4.3 not found  and bundling disabled,samba,1
+4,/home/abuild/rpmbuild/BUILD/libjxl-0.8.1/lib/jxl/enc_xyb.cc:223:21: error: variable 'std::atomic<bool> ok' has initializer but incomplete type    223 |   std::atomic<bool> ok{true};,libjxl,4
+2,"99% tests passed, 3 tests failed out of 436
+[37103s] 
+[37103s] Total Test time (real) = 269.48 sec
+[37103s] 
+[37103s] The following tests FAILED:
+[37103s] 	 16 - BuildModule.Basic (Subprocess aborted)
+[37103s] 	151 - Relay.BuildModule (Subprocess aborted)
+[37103s] 	188 - Runtime.ZeroCopy (Subprocess aborted)
+[37103s] Errors while running CTest",tvm,2
+3,CMake Error at CMakeLists.txt:82 (message):    Unknown or unsupported processor: riscv64.  Override by setting    OQS_PERMIT_UNSUPPORTED_ARCHITECTURE=ON,liboqs,3
+1,"[  145s] Lmod has detected the following error: The following module(s) are unknown:
+[  145s] ""openmpi""",imb_gnu-openmpi4-hpc,1
+6,AssertionError: MemoryError not raised,breezy,6
+1,"[65125s] /tmp/ccU7uGhV.ltrans19.ltrans.o: in function `.L0 ':
+[65125s] /home/abuild/rpmbuild/BUILD/mvapich2-2.3.7-1/<artificial>:964:(.text+0x398): relocation truncated to fit: R_RISCV_JAL against `.L313'
+[65130s] collect2: error: ld returned 1 exit status",mvapich2_gnu-hpc,4
+1,"[  156s] Lmod has detected the following error: The following module(s) are unknown:
+[  156s] ""mvapich2""",scotch_gnu-mvapich2-hpc,1
+1,ModuleNotFoundError: No module named 'pytz',python-nss,1
+1,"[  160s] Lmod has detected the following error: The following module(s) are unknown:
+[  160s] ""mvapich2""",imb_gnu-mvapich2-hpc,1
+1,ModuleNotFoundError: No module named 'javapackages',glassfish-master-pom,1
+4,"error: missing binary operator before token ""(""",perl-Time-HiRes,4
+1,ModuleNotFoundError: No module named 'six',sisu-mojos,1
+2,"[ 1402s] FAIL: testRepeatPersistence (Scheduler.test.SchedulerTestCase)
+[ 1402s] FAILED (failures=1, skipped=24)",python-limnoria,2
+1,"[  206s] Lmod has detected the following error: The following module(s) are unknown:
+[  206s] ""openmpi""",petsc_gnu-openmpi4-hpc,1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,python-entrypoints,1
+5,src/_rtmidi.cpp:243:9: fatal error: longintrepr.h: No such file or directory,python-python-rtmidi,5
+3,Makefile:30: *** Unsupported architecture riscv64  check https://github.com/dynup/kpatch/#supported-architectures.  Stop.,kpatch,3
+1,ModuleNotFoundError: No module named 'javapackages',jansi-native,1
+1,"[88619s] /tmp/ccNMxNce.ltrans18.ltrans.o: in function `.L0 ':
+[88619s] /home/abuild/rpmbuild/BUILD/mvapich2-2.3.7-1/<artificial>:964:(.text+0x398): relocation truncated to fit: R_RISCV_JAL against `.L313'
+[88627s] collect2: error: ld returned 1 exit status",mvapich2_testsuite,4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',snapd-glib,1
+4,hooklib.c:71:27: error: too many arguments to function 'libreport_get_dirsize_find_largest_dir',abrt,4
+3,"error: #error ""No support for this architecture (yet)"" Makefile:269: *** Unsupported target architecture.",ageisub,3
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,hunspell-tl,1
+10,Badness 1000 exceeds threshold 999  aborting,python-azure-mgmt-servicefabricmanagedclusters,10
+2,594 tests  5247 assertions  1 failure,rubygem-redis,2
+8,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project maven-archiver: Compilation failure,maven-archiver,4
+1,"[36827s] /home/abuild/rpmbuild/BUILD/mame-mame0248/build/projects/sdl/mamearcade/gmake-linux/../../../../../3rdparty/sol2/sol/sol.hpp:23754:(.text+0x335fe): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC183'
+[36827s] collect2: error: ld returned 1 exit status",mame_mame,4
+3,configure.ac:13: error: Autoconf version 2.71 or higher is required,cups,3
+4,"[  823s] /home/abuild/rpmbuild/BUILD/pin-gcc-client-0.4.1/include/Dialect/PluginDialect.td:48:39: error: Couldn't find class 'OpTrait'
+[  823s] class Plugin_Op<string mnemonic, list<OpTrait> traits = []> :
+[  823s]                                       ^
+[  823s] Included from /home/abuild/rpmbuild/BUILD/pin-gcc-client-0.4.1/include/Dialect/PluginOps.td:23:
+[  823s] /home/abuild/rpmbuild/BUILD/pin-gcc-client-0.4.1/include/Dialect/PluginDialect.td:48:46: error: unknown class name
+[  823s] class Plugin_Op<string mnemonic, list<OpTrait> traits = []> :",pin-gcc-client,4
+2,make[6]: *** [Makefile:820: test-suite.log] Error 1 make[5]: *** [Makefile:928: check-TESTS] Error 2,softhsm,2
+4,"[ 6433s] ./../include/fst/vector-fst.h:265:35: warning: comparison of integer expressions of different signedness: 'fst::internal::VectorFstBaseImpl<fst::VectorState<fst::ArcTpl<fst::TropicalWeightTpl<float> >, std::allocator<fst::ArcTpl<fst::TropicalWeightTpl<float> > > > >::StateId' {aka 'int'} and 'std::vector<fst::VectorState<fst::ArcTpl<fst::TropicalWeightTpl<float> >, std::allocator<fst::ArcTpl<fst::TropicalWeightTpl<float> > > >*, std::allocator<fst::VectorState<fst::ArcTpl<fst::TropicalWeightTpl<float> >, std::allocator<fst::ArcTpl<fst::TropicalWeightTpl<float> > > >*> >::size_type' {aka 'long unsigned int'} [-Wsign-compare]
+[ 6433s]   265 |     for (StateId state = 0; state < states_.size(); ++state) {",openfst,4
+1,"[  288s] Lmod has detected the following error: The following module(s) are unknown:
+[  288s] ""openmpi""",trilinos_gnu-openmpi4-hpc,1
+1,ModuleNotFoundError: No module named 'javapackages',glassfish-annotation-api,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',gom,1
+3,distutils.errors.DistutilsError: Command '['/usr/bin/python3'  '-m'  'pip'  '--disable-pip-version-check'  'wheel'  '--no-deps'  '-w'  '/tmp/tmp0lyyfq1n'  '--quiet'  'setuptools_scm[toml]>=3.4.1']' returned non-zero exit status 1.,python-importlib-resources,1
+5,find: 'debug': No such file or directory,nodejs-is-regex,5
+1,"[  161s] Lmod has detected the following error: The following module(s) are unknown:
+[  161s] ""openmpi""",netcdf-fortran_gnu-openmpi3-hpc,1
+1,ModuleNotFoundError: No module named 'javapackages',spice-parent,1
+2,"../../BUILDROOT/mayavi-4.8.1-1.1.riscv64/usr/lib64/python3.10/site-packages/tvtk/tests/test_array_handler.py:95: in test_array2vtk
+[ 1174s]     self._check_arrays(z, vtk_arr)
+[ 1174s] ../../BUILDROOT/mayavi-4.8.1-1.1.riscv64/usr/lib64/python3.10/site-packages/tvtk/tests/test_array_handler.py:48: in _check_arrays
+[ 1174s]     self.assertEqual(vtk_arr.GetTuple1(i), arr[i])
+[ 1174s] E   AssertionError: 128.0 != -128",mayavi,2
+1,ModuleNotFoundError: No module named 'javapackages',maven-shared,1
+1,ModuleNotFoundError: No module named 'javapackages',munge-maven-plugin,1
+1,ModuleNotFoundError: No module named 'javapackages',plexus-interactivity,1
+1,"[  164s] Lmod has detected the following error: The following module(s) are unknown:
+[  164s] ""superlu""",hypre_gnu-openmpi-hpc,1
+1,"[  188s] Lmod has detected the following error: The following module(s) are unknown:
+[  188s] ""superlu""",hypre_gnu-openmpi2-hpc,1
+1,ModuleNotFoundError: No module named 'tornado',python-urllib3,1
+2,1 Test in 1 Category Failed,make,2
+9,"[ 1241s] RTNETLINK answers: File exists
+[ 1241s] RTNETLINK answers: Permission denied
+[ 1241s] Network setup
+[ 1241s] Cannot find device ""eth0""
+[ 1241s] Cannot find device ""eth0""
+[ 1241s] Cannot find device ""eth0""
+[ 1241s] Error: Nexthop has invalid gateway.",delve,9
+4,"error: missing binary operator before token ""(""",perl-Unicode-Normalize,4
+2,Errors while running Ctest,kicad,2
+6,[ 1919.243355][ T7313] Out of memory: Killed process 7255 (Setup) total-vm,ghc-tasty-quickcheck,6
+1,ModuleNotFoundError: No module named 'javapackages',felix-gogo-runtime,1
+5,cc1: fatal error: renesas/*.dts: No such file or directory,dtb-riscv64,5
+2,# Ran 220 tests  10 skipped  18 failed.,mercurial-extension-hg-evolve,2
+6,[ 1726.067221][ T5580] Out of memory: Killed process 5580 (ghc) total-vm,ghc-ed25519,6
+3,"#error ""No support for this architecture (yet)""",howl,3
+1,"[  144s] Lmod has detected the following error: The following module(s) are unknown:
+[  144s] ""openmpi""",mumps_gnu-openmpi3-hpc,1
+1,"[  128s] Lmod has detected the following error: The following module(s) are unknown:
+[  128s] ""openmpi""",ocr_gnu-openmpi3-hpc,1

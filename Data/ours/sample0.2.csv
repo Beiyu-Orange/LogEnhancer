@@ -1,0 +1,288 @@
+label,log,Predicted_Label
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,Package dependency requirement 'protobuf >= 2.6.0' could not be satisfied. Package 'protobuf' has version '2.5.0'  required version is '>= 2.6.0',3
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+4,ERROR: test_view_dynamic (tagging.tests.tests.TestTaggedObjectList.test_view_dynamic) raise source.error('global flags not at the start ' re.error: global flags not at the start of the expression at position 14,4
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[ 1555s] gmake[3]: *** No rule to make target 'w'.  Stop.
+[ 1555s] gmake[3]: Leaving directory '/home/abuild/rpmbuild/BUILD/petsc-3.18.4'
+[ 1555s] gmake[2]: *** [/home/abuild/rpmbuild/BUILD/petsc-3.18.4/lib/petsc/conf/rules:56: libs] Error 2",1
+3,Error: unsupported machine: riscv64.,3
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,configure: error: 'libgeos_c' (>= v.3.7.0) is required but it doesn't seem to be installed on this system. You may need to try re-running configure with a --disable-geos370 parameter.,1
+4,dh.cc:40:23: error: 'get_dh2048' was not declared in this scope,3
+1,"[  111s] Lmod has detected the following error: The following module(s) are unknown:
+[  111s] ""netcdf""",1
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,3
+1,"[  132s] Lmod has detected the following error: The following module(s) are unknown:
+[  132s] ""mvapich2""",1
+7,"[  120s] qemu-kvm: terminating on signal 15 from pid 12345 (<unknown process>)\nJob seems to be stuck here, killed. (after 60000 seconds of inactivity)",7
+2,FAILED tests/testsuite.py::XMLTestRunnerTestCase::test_basic_unittest_constructs FAILED tests/testsuite.py::XMLTestRunnerTestCase::test_unexpected_success - A,2
+2,Error in test test_with_syslog (ZConfig.components.logger.tests.test_logger.TestConfig.test_with_syslog) AttributeError: module 'socket' has no attribute 'SocketError',4
+2,FAILED test/test_filepath.py::Test_validate_filepath::test_exception_invalid_char[17DOJ6bKqfdiULG0LywrS37oFh7LAmeHJJyGieLRVf4xjHkenEuiBa8P0zwknBE1\x0017DOJ6bKqfdiULG0LywrS37oFh7LAmeHJJyGieLRVf4xjHkenEuiBa8P0zwknBE1] FAILED test/test_filepath.py::Test_sanitize_filepath::test_normal_str[universal-AA\x00B--AAB0],2
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+4,error: array bound is not an integer constant before ']' token,4
+3,distutils.errors.DistutilsError: Command '['/usr/bin/python3'  '-m'  'pip'  '--disable-pip-version-check'  'wheel'  '--no-deps'  '-w'  '/tmp/tmp0lyyfq1n'  '--quiet'  'setuptools_scm[toml]>=3.4.1']' returned non-zero exit status 1.,3
+7,[java] error(12): org.antlr.tool.Grammar.createLookaheadDFA: timed out (>5000ms),7
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+2,[ERROR] Tests run: 5  Failures: 0  Errors: 1  Skipped: 0  Time elapsed: 3 226.333 s <<< FAILURE! - in org.apache.pdfbox.encryption.TestSymmetricKeyEncryption,2
+1,ModuleNotFoundError: No module named 'six',1
+1,CMake Error at /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:218 (message):    Could NOT find LuaJIT (missing: LUAJIT_LIBRARY LUAJIT_INCLUDE_DIR),1
+7,"Job seems to be stuck here, killed. (after 60000 seconds of inactivity)",7
+7,"[73980s] qemu-kvm: terminating on signal 15 from pid 31691 (<unknown process>)
+Job seems to be stuck here, killed. (after 70000 seconds of inactivity)",7
+10,"[   63s] Patch #1 (895.patch):
+[   63s] + /usr/bin/patch --no-backup-if-mismatch -f -p1 --fuzz=0
+[   63s] patching file slim-4.1.1.gemspec
+[   63s] Hunk #1 FAILED at 26.
+[   63s] 1 out of 1 hunk FAILED -- saving rejects to file slim-4.1.1.gemspec.rej",10
+5,error: File not found: /home/abuild/rpmbuild/BUILDROOT/oemaker-2.0.3-13.oe1.riscv64/etc/isocut/anaconda-ks.cfg,5
+7,"Job seems to be stuck here, killed. (after 86400 seconds of inactivity)",7
+3,At least Erlang/OTP 22.0 is required to build Elixir,3
+2,"FAILED test_datadiff.py::test_diff_set - assert ""--- x\n+++ y...n 3 \n 7 \n])... FAILED test_datadiff.py::test_diff_frozenset - assert ""--- x\n+++ y...n 3 \n ",2
+1,"[  144s] Lmod has detected the following error: The following module(s) are unknown:
+[  144s] ""openmpi""",1
+1,CMake Error at src/plugins/CMakeLists.txt:116 (message):    Ruby not found,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+1,"[  615s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[  615s] strace: PTRACE_SETOPTIONS: Function not implemented
+[  615s] strace: detach: waitpid(8933): No child processes
+[  615s] strace: Process 8933 detached
+[  615s] FATAL: Failed to run 'strace'.",1
+2,make[4]: *** [Makefile:40491: test-suite.log] Error 1 make[3]: *** [Makefile:40599: check-TESTS] Error 2,2
+1,"[  318s] /tmp/ccaAvGTI.ltrans0.ltrans.o: in function `tinyxml2::StrPair::SetStr(char const*, int)':
+[  318s] /home/abuild/rpmbuild/BUILD/noson-2.10.2/noson/src/private/tinyxml2.cpp:108:(.text+0x593c): relocation truncated to fit: R_RISCV_PCREL_HI20 against `.LC81'
+[  319s] collect2: error: ld returned 1 exit status",1
+4,memory_allocator.h:119:15: error: 'sys_mmap' was not declared in this scope memory_allocator.h:145:7: error: 'sys_munmap' was not declared in this scope; did you mean 'munmap'?,4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+4,NoMethodError: undefined method `source_location' for #<Binding:0x0000002ac6508d18>,3
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+4,simd_generic.hpp:324:56: error: cannot convert 'const ngcore::SIMD<double  1>' to 'double' in initialization,4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,"[  234s] meson.build:79:2: ERROR: Dependency ""mutter-clutter-11"" not found, tried ",1
+1,ModuleNotFoundError: No module named 'javapackages',1
+5,make[3]: *** No rule to make target 'param.riscv64_linux26.h'  needed by 'param.h.new'.  Stop.,1
+6,AssertionError: MemoryError not handled properly,4
+4,line 16: It's not recommended to have unversioned Obsoletes: Obsoletes:      libjose line 33: It's not recommended to have unversioned Obsoletes: Obsoletes:      libjose-devel,10
+1,"[  199s] Lmod has detected the following error: The following module(s) are unknown:
+[  199s] ""openmpi""",1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'six',1
+3,beam/beam_load.c(1871): Error loading module getopt:    This BEAM file was compiled for a later version of the run-time system than 21.,3
+4,operf_utils.cpp:1423:2: error: 'rmb' was not declared in this scope,4
+10,"Badness 1070 exceeds threshold 999, aborting build",10
+1,ModuleNotFoundError: No module named 'javapackages',1
+10,/usr/lib/rpm/brp-digest-list: line 32: gen_digest_lists: command not found,10
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+5,libmicrohttpd-tutorial.texi:115: @include: could not find chapters/websocket.inc,1
+10,lto-wrapper: fatal error: make returned 2 exit status,10
+10,"Badness 1050 exceeds threshold 999, aborting job",10
+1,"[  180s] Lmod has detected the following error: The following module(s) are unknown:
+[  180s] ""openmpi""",1
+7,Job seems to be stuck here  killed. (after 28800 seconds of inactivity),7
+5,cc1: fatal error: renesas/*.dts: No such file or directory,5
+3,../../utils/parse_plt.h:134:2: error: #error Unknown architecture    134 | #error Unknown architecture,3
+1,ModuleNotFoundError: No module named 'javapackages',1
+4,pkg/drivers/kvm/domain.go:67:53: undefined: domainTmpl,4
+5,touch: cannot touch '_output/bin/prerelease-lifecycle-gen': No such file or directory,5
+4,siplib.c:13750:22: error: invalid use of undefined type 'struct _frame',4
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+4,"[13920s] /home/abuild/rpmbuild/BUILD/blender-3.5.0/intern/cycles/device/cuda/device_impl.cpp:520:25: error: cast from 'void*' to 'CUdeviceptr' {aka 'unsigned int'} loses precision [-fpermissive]
+[13920s]   520 |   cuda_assert(cuMemFree((CUdeviceptr)device_pointer));",4
+10,error: subprocess-exited-with-error error: metadata-generation-failed,10
+1,"[ 6526s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[ 6526s] strace: PTRACE_SETOPTIONS: Function not implemented
+[ 6526s] strace: detach: waitpid(7546): No child processes
+[ 6526s] strace: Process 7546 detached
+[ 6526s] FATAL: Failed to run 'strace'.",1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,5
+10,lto-wrapper: fatal error: compilation failed due to signal 9,10
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,Test cases: 103 total  4 skipped  0 expected failures  2 broken  0 failed Total time: 1329.526s R:FAIL:status:1,2
+1,"[  145s] Lmod has detected the following error: The following module(s) are unknown:
+[  145s] ""mvapich2""",1
+1,error: failed to run custom build command for `ring v0.16.20`,1
+10,OverflowError: too many digits in integer,10
+2,"99% tests passed, 3 tests failed out of 436
+[37103s] 
+[37103s] Total Test time (real) = 269.48 sec
+[37103s] 
+[37103s] The following tests FAILED:
+[37103s] 	 16 - BuildModule.Basic (Subprocess aborted)
+[37103s] 	151 - Relay.BuildModule (Subprocess aborted)
+[37103s] 	188 - Runtime.ZeroCopy (Subprocess aborted)
+[37103s] Errors while running CTest",2
+10,error: %prein(fipscheck-1.5.0-7.oe1.riscv64) scriptlet failed  signal 6 error: fipscheck-1.5.0-7.oe1.riscv64: install failed,10
+6,[ 1968.000306][ T7607] Out of memory: Killed process 7560 (Setup) total-vm,6
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+5,"[ 1409s] ./include/linux/compiler.h:246:10: fatal error: asm/rwonce.h: No such file or directory
+[ 1409s]   246 | #include <asm/rwonce.h>
+[ 1409s]       |          ^~~~~~~~~~~~~~
+[ 1409s] compilation terminated.",9
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+1,ModuleNotFoundError: No module named 'werkzeug.middleware',1
+2,"The following tests FAILED:  	 16 - exhaustive1_test (Timeout) 	 17 - exhaustive2_test (Timeout) 	 19 - exhaustive_test (Timeout) Errors while running Ctest",2
+10,"[32883s] qemu-kvm: terminating on signal 15 from pid 31808 (<unknown process>)
+[32883s] ### VM INTERACTION END ###
+[32883s] No buildstatus set, either the base system is broken (kernel/initrd/udev/glibc/bash/perl)
+[32883s] or the build host has a kernel or hardware problem...",1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+4,"[  943s] /home/abuild/rpmbuild/BUILD/i40e-2.22.8/src/i40e_txrx.c: In function 'i40e_process_skb_fields':
+[  943s] /home/abuild/rpmbuild/BUILD/i40e-2.22.8/src/i40e_txrx.c:2337:38: error: 'rx_ptype' undeclared (first use in this function); did you mean '_ctype'?
+[  943s]  2337 |  i40e_rx_hash(rx_ring, rx_desc, skb, rx_ptype);
+[  943s]       |                                      ^~~~~~~~
+[  943s]       |                                      _ctype
+[  943s] /home/abuild/rpmbuild/BUILD/i40e-2.22.8/src/i40e_txrx.c:2337:38: note: each undeclared identifier is reported only once for each function it appears in",1
+2,"[30670s] FAILED distributed/tests/test_worker_memory.py::test_deprecated_memory_monitor_method_nanny
+[30670s] FAILED distributed/tests/test_worker_state_machine.py::test_task_state_instance_are_garbage_collected
+[30670s] = 59 failed, 2128 passed, 151 skipped, 30 deselected, 17 xfailed, 5 xpassed, 180 rerun in 30404.04s (8:26:44) =",2
+4,GNUmakefile:67: *** multiple target patterns.  Stop.,4
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,FAILED scss/tests/test_expression.py::test_reference_operations - re.error: g... FAILED scss/tests/test_expression.py::test_functions - scss.errors.SassSyntax,2
+1,Module build failed (from ./node_modules/babel-loader/lib/index.js): NonErrorEmittedError: (Emitted value instead of an instance of Error) [object Object] webpack compiled with 8 errors,1
+4,/usr/lib64/gcc/riscv64-suse-linux/9/../../../../riscv64-suse-linux/bin/ld: /tmp/cc7rEUJG.ltrans5.ltrans.o: in function `.L0 ': /home/abuild/rpmbuild/BUILD/coturn-4.6.1/src/apps/common/ns_turn_utils.c:606: undefined reference to `FIPS_mode',1
+4,/home/abuild/rpmbuild/BUILD/rails-html-sanitizer-1.4.2/usr/share/gems/gems/rails-html-sanitizer-1.4.2/test/sanitizer_test.rb:184:in `<class:SanitizersTest>': uninitialized constant Loofah::HTML5::SafeList (NameError),2
+6,"[ 2334.567890][T23345] Process 23345 (clang) killed by OOM killer: total-vm:1078697528kB, anon-rss:3486616kB",6
+1,"[  207s] Lmod has detected the following error: The following module(s) are unknown:
+[  207s] ""openmpi""",1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,error: failed to run custom build command for `ring v0.16.20`,1
+2,[   77s] ERROR: test_localtime_skew (mohawk.tests.TestSender),2
+2,FAILED tests/test_xkcdpass.py::TestEntropyInformation::test_entropy_printout_valid_input,2
+6,"[ 3949.921300][T13475] Out of memory: Killed process 13428 (Setup) total-vm:1080717604kB, anon-rss:4741092kB, file-rss:128kB, shmem-rss:0kB, UID:399 pgtables:13316kB oom_score_adj:0",6
+2,Badness 1000 exceeds threshold 999  aborting,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+2,"Badness 1060 exceeds threshold 999, aborting build",2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[  168s] Lmod has detected the following error: The following module(s) are unknown:
+[  168s] ""netcdf""",1
+2,1 tests  0 assertions  0 failures  1 errors,2
+1,ModuleNotFoundError: No module named 'encodings',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[   63s] Lmod has detected the following error: The following module(s) are unknown:
+[   63s] ""openmpi""",1
+3,"AssertionError: '[mp4] muxer does not support non seekable output' not found in ""no container format 'mp4'""",3
+4,src/github.com/boltdb/bolt/freelist.go:207:7: undefined: maxAllocSize,3
+2,make[5]: *** [Makefile:966: test-suite.log] Error 1 make[4]: *** [Makefile:1074: check-TESTS] Error 2,2
+2,1 out of 1 hunk FAILED -- saving rejects to file vendor/nix/.cargo-checksum.json.rej patching file vendor/nix/src/sys/ioctl/linux.rs Hunk #2 FAILED at 56. 1 out of 1 hunk FAILED -- saving rejects to file vendor/nix/src/sys/ioctl/linux.rs.rej,2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,tests 1 fail  1,2
+1,ValueError: LDAP Setup failed,1
+1,[ 1500s] Error: timeout of 500ms exceeded,1
+2,make: *** [Makefile:159: all] Error 2,2
+1,[ 3498.743112][ T12894] Out of memory: Killed process 12847 (Setup) total-vm:1100987654kB  anon-rss:5429873kB  file-rss:128kB  shmem-rss:0kB  UID:399 pgtables:14892kB oom_score_adj:0,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,_pycrfsuite.cpp:18056:23: error: _PyErr_StackItem {aka struct _err_stackitem} has no member named exc_type _pycrfsuite.cpp:18058:23: error: _PyErr_StackItem {aka struct _err_stackitem} has no member named exc_traceback,4
+5,rpmbuild: error while loading shared libraries: libelf.so.1: cannot open shared object file: No such file or directory,5
+2,"[  221s] ERROR:  Error installing sassc-2.2.1/sassc-2.2.1.gem:
+[  221s] 	ERROR: Failed to build gem native extension.",2
+2,[  350s] FAILED test_misc.py::test_in_threads_parsing - assert False,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+6,[ 6123.904321][ T17328] Out of memory: Killed process 17289 (Setup) total-vm:1136543298kB  anon-rss:7896543kB  file-rss:128kB  shmem-rss:0kB  UID:399 pgtables:19234kB oom_score_adj:0,6
+8,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project plexus-io: Compilation failure,8
+1,"[  572s] strace: ptrace(PTRACE_TRACEME, ...): Function not implemented
+[  572s] strace: PTRACE_SETOPTIONS: Function not implemented
+[  572s] strace: detach: waitpid(8907): No child processes
+[  572s] strace: Process 8907 detached
+[  572s] FATAL: Failed to run 'strace'.",1
+1,error: failed to run custom build command for `ring v0.16.20`,1
+4,ruby: invalid option -:  (-h will show valid options) (RuntimeError),3
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+2,FAILED tests/test_path.py::TestPath::test_read_text - ValueError: invalid mod... FAILED tests/test_util.py::TestSphinxTesting::test_TestApp_when_copy_srcdir_to_tmpdir,2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[  288s] Lmod has detected the following error: The following module(s) are unknown:
+[  288s] ""openmpi""",1
+2,make[1]: *** [CMakeFiles/Makefile2:300: CMakeFiles/stage4.dir/all] Error 2 make: *** [Makefile:145: all] Error 2,2
+1,ModuleNotFoundError: No module named 'yaml',1
+5,"[  654s] Starting local Bazel server and connecting to it...
+[  654s] FATAL: Cannot get start time of process 16075: (error: 2): No such file or directory",5
+2,"[ 3902s] The following tests FAILED:
+[ 3902s] 	 38 - torture_rekey (Failed)
+[ 3902s] Errors while running Ctest",2
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babe,1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+5,[ 5570s] rm: cannot remove '/home/abuild/rpmbuild/BUILDROOT/ghc-bootstrap-8.10.4-1.1.riscv64/opt/lib/ghc-8.10.4/lib/package.conf.d/.stamp': No such file or directory,5
+10,"[  250s] ERROR: Error installing sassc-2.3.0/sassc-2.3.0.gem:
+[  250s] 	ERROR: Failed to build gem native extension.",3
+5,make: *** No rule to make target 'include/generic/Types.inc'  needed by 'api/thunks.o'.  Stop.,1
+2,"[ 1129s] FAILED tests/test_commands.py::TestRedisCommands::test_sync - redis.exception...
+[ 1129s] = 1 failed, 1765 passed, 910 skipped, 952 deselected, 5 warnings in 479.93s (0:07:59) =",2
+4,pki_key.cpp:780:53: error: invalid conversion from 'const dsa_st*' to 'DSA*' {aka 'dsa_st*'} [-fpermissive],4
+2,error: %prein(fipscheck-1.5.0-7.oe1.riscv64) scriptlet failed  signal 6 error: fipscheck-1.5.0-7.oe1.riscv64: install failed,2
+9,[ERROR] Failed to execute goal on project language-detector: Could not resolve dependencies for project com.optimaize.languagedetector:language-detector:jar:0.6: Cannot access huaweicloud,9
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+6,[ 2456.908763][ T8734] Out of memory: Killed process 8702 (node) total-vm:1098741296kB  anon-rss:4982340kB  file-rss:128kB  shmem-rss:0kB  UID:399 pgtables:14032kB oom_score_adj:0,6
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+1,ModuleNotFoundError: No module named 'encodings',1
+10,"[32883s] qemu-kvm: terminating on signal 15 from pid 31808 (<unknown process>)
+[32883s] ### VM INTERACTION END ###
+[32883s] No buildstatus set, either the base system is broken (kernel/initrd/udev/glibc/bash/perl)
+[32883s] or the build host has a kernel or hardware problem...",1
+5,h2_conn_io.c:27:10: fatal error: http_ssl.h: No such file or directory,5
+1,ModuleNotFoundError: No module named 'javapackages',1
+5,touch: cannot touch '_output/bin/prerelease-lifecycle-gen': No such file or directory,5
+9,[ERROR] Failed to execute goal on project my-project: Could not resolve dependencies for project com.example:my-project:jar:1.0.0: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.commons:commons-lang3:jar:3.12.0 has not been downloaded from it before.,9
+4,/home/abuild/rpmbuild/BUILD/libjxl-0.8.1/lib/jxl/enc_xyb.cc:223:21: error: variable 'std::atomic<bool> ok' has initializer but incomplete type    223 |   std::atomic<bool> ok{true};,4
+2,/usr/lib/rpm/brp-digest-list: line 33: gen_digest_lists: command not found,2
+1,"[  128s] Lmod has detected the following error: The following module(s) are unknown:
+[  128s] ""openmpi""",1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+4,pybind11.h:1892:14: error: invalid use of incomplete type PyFrameObject {aka struct _frame},4
+2,"[  799s] /home/abuild/rpmbuild/BUILD/SPIRV-Tools-2022.1/source/val/validate_builtins.cpp:4010:10: error: enumeration value 'SpvBuiltInCullMaskKHR' not handled in switch [-Werror=switch]
+[  799s] cc1plus: all warnings being treated as errors
+[  799s] ninja: build stopped: subcommand failed.",2
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"[  408s] Lmod has detected the following error: The following module(s) are unknown:
+[  408s] ""mvapich2""",1
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+8,[ERROR] Error resolving version for plugin 'org.apache.maven.plugins:maven-site-plugin',8
+2,"../../BUILDROOT/mayavi-4.8.1-1.1.riscv64/usr/lib64/python3.10/site-packages/tvtk/tests/test_array_handler.py:95: in test_array2vtk
+[ 1174s]     self._check_arrays(z, vtk_arr)
+[ 1174s] ../../BUILDROOT/mayavi-4.8.1-1.1.riscv64/usr/lib64/python3.10/site-packages/tvtk/tests/test_array_handler.py:48: in _check_arrays
+[ 1174s]     self.assertEqual(vtk_arr.GetTuple1(i), arr[i])
+[ 1174s] E   AssertionError: 128.0 != -128",2
+2,FAILED test_runtime.py::RuntimeGoingWrongTestCase::test_duplication_and_runtime_malformed,2
+6,[ 4675.990761][ T14876] Out of memory: Killed process 14834 (Setup) total-vm:1104329876kB  anon-rss:5897342kB  file-rss:128kB  shmem-rss:0kB  UID:399 pgtables:15234kB oom_score_adj:0,6
+1,ModuleNotFoundError: No module named 'giscanner._giscanner',1
+9, [ERROR] Could not transfer artifact org.apache.hadoop:hadoop-common:jar:3.3.0 from/to central (https://repo.maven.apache.org/maven2): Timeout waiting for download,9
+1,"[  171s] Lmod has detected the following error: The following module(s) are unknown:
+[  171s] ""openmpi""",1
+1,ModuleNotFoundError: No module named 'SCons',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,ModuleNotFoundError: No module named 'javapackages',1
+3,"Makefile:144: *** CPU type ""riscv64"" not supported.  Please file bug report at 'https://github.com/mupen64plus/mupen64plus-core/issues'.  Stop.",9
+3,"./linux-context.h:43:2: error: #error ""OVERFLOW_ADDRESS() undefined!""
+./mb.h:67:2: error: #error Need to define rmb for this architecture!
+./mb.h:68:2: error: #error See the kernel source directory: tools/perf/perf.h file",3
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,"error: #error ""No default crashkernel reservation for your architecture!"" error: 'CAN_REDUCE_CPUS' was not declared in this scope error: 'DEF_RESERVE_KB' was not declared in this scope; did you mean 'ADD_RESERVE_KB'?",3
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+1,ModuleNotFoundError: No module named 'six',1
+3,file /usr/lib64/libdw-0.185.so from install of elfutils-libs-0.185-3.oe1.riscv64 conflicts with file from package elfutils-0.185-5.oe1.riscv64,3
+4,"TypeError [ERR_INVALID_ARG_TYPE]: The ""data"" argument must be of type string or an instance of Buffer  TypedArray  or DataView. Received an instance of SourceMapGenerator",4
+1,/bin/sh: line 1: git: command not found make: *** [Makefile:181: obj/filter/tree_test.ok] Error 139,1
+6,[ 4869.188984][T15464] Out of memory: Killed process 15417 (Setup) total-vm,6
+1,ModuleNotFoundError: No module named 'javapackages',1
+4,./agent.go:733:17: undefined: initRootBusPath,4
+1,RuntimeError: Missing build dependency: Unable to `import yaml`.,3
+1,ModuleNotFoundError: No module named 'javapackages',1
+1,pkg_resources.DistributionNotFound: The 'pytz>=2015.7' distribution was not found and is required by babel,1
+2,"The following tests FAILED: 	  1 - bear::func_test (Timeout) Errors while running Ctest",2
+4,error[E0425]: cannot find value `AVG_RANGE_COMP_REQ` in this scope error[E0425]: cannot find value `AVG_RANGE_COMP_REQ` in this scope,4
